@@ -1,0 +1,38 @@
+{
+  "name": "dann-api",
+  "version": "1.0.0",
+  "description": "The Restfull APIs using Library Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannOfficial/rest-api.git"
+  },
+  "keywords": [
+    "api",
+    "api-rest",
+    "rest-api",
+    "restfull-api",
+    "dann-api",
+    "DannTeam"
+  ],
+  "author": "DannTeam",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/DannOfficial/rest-api/issues"
+  },
+  "homepage": "https://github.com/DannOfficial/rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "chalk": "^4.1.1",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.6.1",
+    "node-fetch": "^3.3.2",
+    "ssl-express-www": "^3.2.1"
+  }
+}
